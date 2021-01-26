@@ -30,4 +30,4 @@ function getFrequency() {
 }
 
 let freqArray = getFrequency();
-console.log(freqArray);
+
